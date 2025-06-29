@@ -1,0 +1,5 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase,WorkerGroup,QualificationLevel
+W1,John,skill1;skill2,"[1,2,3]",2,A,5
+W2,Jane,skill2;skill3,"[2,3,4]",3,B,4
+W3,Aryan,skill1;skill3,"[1,4]",1,C,3
+W4,Neha,skill2,"[2,3]",2,A,4

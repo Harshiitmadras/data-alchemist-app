@@ -1,0 +1,5 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C1,Alice,5,T1;T2,Alpha,"{""industry"":""finance""}"
+C2,Bob,3,T2;T3,Beta,"{""industry"":""retail""}"
+C3,Charlie,4,T1;T3,Gamma,"{""industry"":""education""}"
+C4,Devika,2,T2,Alpha,"{""industry"":""manufacturing""}"
